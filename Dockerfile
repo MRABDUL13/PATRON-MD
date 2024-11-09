@@ -4,7 +4,7 @@ FROM node:20
 USER node
 
 
-RUN git clone https://github.com/Itzpaton/PATRON-MD.git home/node/blue
+RUN git clone https://github.com/Itzpatron/PATRON-MD.git home/node/blue
 
 
 WORKDIR /home/node/blue
