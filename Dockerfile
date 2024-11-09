@@ -11,7 +11,7 @@ RUN useradd -m -s /bin/bash node
 USER node
 
 # Clone the repository
-RUN git clone https://github.com/Itzpatron/PATRON-MD.git /home/node/blue
+RUN git clone https://github.com/patronffx/PATRON-MD.git /home/node/blue
 
 # Set the working directory
 WORKDIR /home/node/blue
