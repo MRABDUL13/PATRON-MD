@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 //auto presence update
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoRecord = trur //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
